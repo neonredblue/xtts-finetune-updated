@@ -1,0 +1,7 @@
+faster_whisper
+gradio
+spacy
+coqui-tts
+
+cutlet
+fugashi[unidic-lite]
