@@ -1,6 +1,8 @@
 # warning 
 "this repo is a copy of [xtts-finetune-webui](https://github.com/daswer123/xtts-finetune-webui)"
+
 "this repo is for personal use only, i use it to finture some models for personal use and fix some erros on the original repo"
+
 "xtts models are not updated anymore you can try f5 tts for now, it has good quality at lower generation time (almest realtime)"
 
 # update 
