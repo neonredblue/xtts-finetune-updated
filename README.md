@@ -1,3 +1,6 @@
+# warning 
+"this repo is for personal use only"
+
 # xtts-finetune-webui
 
 This webui is a slightly modified copy of the [official webui](https://github.com/coqui-ai/TTS/pull/3296) for finetune xtts.
