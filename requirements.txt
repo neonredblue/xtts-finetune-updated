@@ -1,7 +1,5 @@
-faster_whisper
-gradio
 spacy
-coqui-tts
+coqui-tts==0.24.3
 
 cutlet
 fugashi[unidic-lite]
